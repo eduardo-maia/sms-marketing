@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SMS Marketing</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="settings">Settings</string>
+	<string name="pause">Pause for</string>
+	<string name="secs">seconds</string>
+	<string name="waiting">Waiting</string>
+	<string name="after_sending">after sending</string>
+	<string name="messages">messages</string>
+	<string name="settings_title1">Pause delivery</string>
+	<string name="settings_explanation">Avoid blocking your chip for spam</string>
+	<string name="settings_title2">Random text</string>
+	<string name="save">Save</string>
+	<string name="phone_number">Phone number</string>
+	<string name="none">None</string>
+	<string name="random">Random</string>
+	<string name="send">Send</string>
+	<string name="cancel">Cancel</string>
+	<string name="add_random_text_at_the_end_of_message">Add random text at the end of the message:</string>
+	<string name="mobile_phones">Mobile phones:</string>
+	<string name="locate_file">Locate file</string>
+	<string name="message">Message:</string>
+	<string name="help">Help</string>
+	<string name="greater_than_zero">All fields requires a number greater than zero</string>
+	<string name="not_delivering">Not delivering messages at this moment</string>
+	<string name="delivery_cancelled">Delivery cancelled!</string>
+	<string name="select_telephone_list">Select telephone list</string>
+	<string name="type_sms_message">Type SMS message</string>
+	<string name="fail_loading_telephones">Could not open telephones file</string>
+	<string name="sending_sms">Sending SMS</string>
+	<string name="to">to</string>
+	<string name="error_reading_telephone_list">Error reading telephones file</string>
+	<string name="status"></string>
+	<string name="done">Done.</string>
+	<string name="messages_sent">messages sent.</string>
+			
+	
+</resources>

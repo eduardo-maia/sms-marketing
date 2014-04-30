@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SMS Marketing</string>
+    <string name="action_settings">Configurações</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="settings">Configurações</string>
+	<string name="pause">Pausa de</string>
+	<string name="secs">segundos</string>
+	<string name="waiting">Esperando</string>
+	<string name="after_sending">após enviar</string>
+	<string name="messages">mensagens</string>
+	<string name="settings_title1">Pausar envio</string>
+	<string name="settings_explanation">Evite bloqueio de chip por spam</string>
+	<string name="settings_title2">Texto aleatório</string>
+	<string name="save">Salvar</string>
+	<string name="phone_number">Número telefônico</string>
+	<string name="none">Nenhum</string>
+	<string name="random">Aleatório</string>
+	<string name="send">Enviar</string>
+	<string name="cancel">Cancelar</string>
+	<string name="add_random_text_at_the_end_of_message">Texto aleatório no fim da mensagem:</string>
+	<string name="mobile_phones">Celulares:</string>
+	<string name="locate_file">Localizar</string>
+	<string name="message">Mensagem:</string>
+	<string name="help">Ajuda</string>
+	<string name="greater_than_zero">Todos os campos requerem número maior que zero</string>
+	<string name="not_delivering">Não está sendo feito envio agora</string>
+	<string name="delivery_cancelled">Envio cancelado!</string>
+	<string name="select_telephone_list">Selecione lista de celulares</string>
+	<string name="type_sms_message">Digite a mensagem do SMS</string>
+	<string name="fail_loading_telephones">Falha abrindo arquivo de celulares</string>
+	<string name="sending_sms">Enviando SMS</string>
+	<string name="to">para</string>
+	<string name="error_reading_telephone_list">Erro lendo arquivo com celulares</string>
+	<string name="status"></string>
+	<string name="done">Pronto. </string>
+	<string name="messages_sent"> mensagens enviadas.</string>
+		
+</resources>
