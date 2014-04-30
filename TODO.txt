@@ -1,0 +1,2 @@
+1. Test if sending SMS persists if user presses the "back" button or the "show desktop" button. You can test this by setting a long pause period between sending sms messages
+
