@@ -1,2 +1,1 @@
-1. Test if sending SMS persists if user presses the "back" button or the "show desktop" button. You can test this by setting a long pause period between sending sms messages
-
+1. You don't need to wait *CONFIGURED* seconds after sending all SMS messages. Once all messages were delivered, just finish the deliver.
